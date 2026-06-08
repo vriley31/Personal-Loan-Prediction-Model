@@ -127,10 +127,8 @@ This project demonstrates how predictive analytics can help financial institutio
 
 ## Author
 
-Victoria Riley
+**Victoria Riley**
 
-MS Information Technology - Analytics Candidate
+Graduate Student | Data Analytics & Predictive Modeling
 
-Capella University
-
-Data Analytics | Predictive Modeling | Business Intelligence | Financial Services Analytics
+GitHub: [@vriley31](https://github.com/vriley31)
